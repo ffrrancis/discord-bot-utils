@@ -1,5 +1,5 @@
 {
-  "name": "discord-bot-utils",
+  "name": "utilcord",
   "version": "1.0.0",
   "description": "Utilities to make your discord bots better and easier to make.",
   "main": "index.js",
