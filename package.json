@@ -1,0 +1,32 @@
+{
+  "name": "discord-bot-utils",
+  "version": "1.0.0",
+  "description": "Utilities to make your discord bots better and easier to make.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/r6nted/discord-bot-utils.git"
+  },
+  "keywords": [
+    "discord",
+    "discord-bot",
+    "npm",
+    "yarn",
+    "npm-package",
+    "typescript",
+    "discord.js",
+    "eris"
+  ],
+  "author": "r6nted",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/r6nted/discord-bot-utils/issues"
+  },
+  "homepage": "https://github.com/r6nted/discord-bot-utils#readme",
+  "dependencies": {
+    "phin": "^3.6.1"
+  }
+}
